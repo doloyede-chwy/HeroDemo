@@ -7,7 +7,7 @@ pipeline {
       steps {
          echo 'PLUS ULTRAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
         echo 'Hello from Jenkins slave!'
-        sleep 10s
+        sleep 10
         echo 'PLUS ULTRAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
         echo 'Hello from Jenkins slave!'
         echo 'PLUS ULTRAAA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
